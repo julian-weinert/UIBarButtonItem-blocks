@@ -4,6 +4,7 @@ UIBarButtonItem-blocks
 ***Category on UIBarButtonItem that implements block support***
 
 This category adds block support for `UIBarButtonItem`.
+All default methods of the `UIBarButtonItem` init family are implemented.
 
 ##Example usage
 ``` objective-c
